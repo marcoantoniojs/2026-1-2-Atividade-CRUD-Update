@@ -4,14 +4,14 @@
 - **Objetivo**: atividade avaliativa com conceitos básicos de react (jsx, props, state e eventos)
 - **Público alvo**: alunos da disciplina de [POS](https://github.com/infoweb-pos/) do curso de [Infoweb](https://diatinf.ifrn.edu.br/cursos/tecnico-em-informatica-para-internet/) na [DIATINF](https://diatinf.ifrn.edu.br/) no [CNAT-IFRN](https://portal.ifrn.edu.br/campus/natalcentral/)
 - **Professor**: [L A Minora](https://github.com/leonardo-minora/)
-- **Aluno**: FIXME
+- **Aluno**: Marco Antonio Cavalcanti da Silva
 
 ## Checklist
-- [ ] 1. Fork desse repositório
-- [ ] 2. Colocar o nome nesse arquivo `README.md`
-- [ ] 3. Criar um projeto next
-- [ ] 4. Adicionar a lib [shadcnui](https://ui.shadcn.com/)
-- [ ] 5. Commit com mensagem "criado e configurado app inicial"
+- [X] 1. Fork desse repositório
+- [X] 2. Colocar o nome nesse arquivo `README.md`
+- [X] 3. Criar um projeto next
+- [X] 4. Adicionar a lib [shadcnui](https://ui.shadcn.com/)
+- [X] 5. Commit com mensagem "criado e configurado app inicial"
 - [ ] 6. Criar uma página inicial com link para a lista de produtos `/produtos` consumindo dados de https://dummyjson.com/docs/products
 - [ ] 7. Commit com a mensagem "criado a página com lista de produtos"
 - [ ] 8. Criar uma 2a página para atualizar produtos `/produtos/[id]` enviando atualização para a [api](https://dummyjson.com/docs/products#products-update)
